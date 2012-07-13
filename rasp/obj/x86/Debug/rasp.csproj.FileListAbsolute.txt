@@ -1,0 +1,11 @@
+C:\apps\rasp\rasp\bin\Debug\rasp.exe
+C:\apps\rasp\rasp\bin\Debug\rasp.pdb
+C:\apps\rasp\rasp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\apps\rasp\rasp\obj\x86\Debug\rasp.Form1.resources
+C:\apps\rasp\rasp\obj\x86\Debug\rasp.Form2.resources
+C:\apps\rasp\rasp\obj\x86\Debug\rasp.Form3.resources
+C:\apps\rasp\rasp\obj\x86\Debug\rasp.Properties.Resources.resources
+C:\apps\rasp\rasp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\apps\rasp\rasp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\apps\rasp\rasp\obj\x86\Debug\rasp.exe
+C:\apps\rasp\rasp\obj\x86\Debug\rasp.pdb

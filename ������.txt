@@ -1,0 +1,28 @@
+       private void button4_Click_1(object sender, EventArgs e)
+        {
+            StreamWriter a = new StreamWriter("asd.txt",false);
+            a.WriteLine("button4_1");
+            a.WriteLine("button4_2");
+            a.WriteLine("button4_3");
+           
+            a.Close();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            StreamReader a = new StreamReader("asd.txt");
+            while (!a.EndOfStream)
+            {
+                MessageBox.Show(a.ReadLine());
+            }
+            a.Close();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            StreamWriter a = new StreamWriter("asd.txt",true);
+            a.WriteLine("button6_1");
+            a.WriteLine("button6_2");
+            a.WriteLine("button6_3");
+            a.Close();
+        }
